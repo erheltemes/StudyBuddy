@@ -16,7 +16,7 @@ AS A student I WANT TO manage my upcoming study sessions and notes SO THAT I can
 
 * On the study sessions page, users can view and enroll in upcoming sessions. They can also add sessions via the add session button.
 
-* The find a buddy tab will open up a map that can access either study sessions or other study buddies by location.
+* The "find a buddy" tab will open up a map that can access either study sessions or other study buddies by location.
 
 * At the end of their visit, the user can logout.
 
