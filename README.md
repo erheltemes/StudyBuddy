@@ -12,7 +12,7 @@ AS A student I WANT TO manage my upcoming study sessions and notes SO THAT I can
 ```
 
 ## Usage
-* To create an account, a form will appear to fill out. After signup, the user is redirected to their dashboard where they can add notes. After login, the user is also redirected to the dashboard which could be filled with upcoming sessions they're hosting, attending, and their notes. They can also create notes here via the add note button. The dashboard is also where they can delete or unenroll from sessions. 
+* To create an account, a form will appear to fill out. After signup, the user is redirected to their dashboard where they can add notes. After login, the user is also redirected to the dashboard which could be filled with upcoming sessions they're hosting, attending, and their notes. They can also create notes here via the "add note" button. The dashboard is also where they can delete or unenroll from sessions. 
 
 * On the study sessions page, users can view and enroll in upcoming sessions. They can also add sessions via the add session button.
 
